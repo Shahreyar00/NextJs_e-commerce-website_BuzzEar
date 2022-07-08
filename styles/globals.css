@@ -172,7 +172,7 @@ span.text-red {
 
 .hero-banner-container h1{
   color: white;
-  font-size: 10em;
+  font-size: 7em;
   margin-left: -20px;
   text-transform: uppercase;
 }
@@ -180,7 +180,7 @@ span.text-red {
 .hero-banner-image{
   position: absolute;
   top: 0%;
-  right:20%;
+  right:15%;
   width: 450px;
   height: 450px;
 }
@@ -717,10 +717,10 @@ span.text-red {
   }
 
   .hero-banner-image{
-    width: 77%;
-    height: 62%;
-    top: -2%;
-    right: -6%;
+    top: 0%;
+    right:-5%;
+    width: 180px;
+    height: 180px;
   }
 
   .footer-banner-container{
@@ -786,7 +786,7 @@ span.text-red {
     font-size: 40px;
   }
   .hero-banner-container button{
-    margin-top: 90px;
+    margin-top: 40px;
     z-index: 10000;
   }
 
